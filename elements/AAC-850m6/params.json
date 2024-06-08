@@ -1,0 +1,29 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Arabic to Roman",
+    "fields": {
+        "AAD": {
+            "caption": "Arabic number",
+            "editor": "DynamicValue",
+            "name": "arabic_number",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "icon": "ion-contrast",
+    "states": {
+        "AAE": {
+            "caption": "Roman",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "roman",
+            "value": "text"
+        }
+    }
+}

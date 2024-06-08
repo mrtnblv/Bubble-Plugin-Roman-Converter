@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "internationalization"
+    },
+    "description": "This plugin converts Roman numerals to Arabic numbers and vice versa. It provides input fields for both Roman numerals and Arabic numbers and exposed states to display the corresponding conversions in real-time as the user inputs the values.",
+    "image": "//meta-q.cdn.bubble.io/f1717827070135x403132701982902700/SCR-20240608-hsfq.png",
+    "license": "open_source",
+    "name": "Roman Converter"
+}
